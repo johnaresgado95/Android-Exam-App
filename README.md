@@ -29,3 +29,6 @@ Thank you so much and kind regards.
 
 ---- Link for installer ----
 https://github.com/johnaresgado95/exam_app/blob/master/app-debug.apk
+
+---- Incase you have a missing files ----
+https://github.com/johnaresgado95/exam_app/blob/master/CondingExam.zip
